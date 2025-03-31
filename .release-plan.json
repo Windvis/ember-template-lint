@@ -1,17 +1,8 @@
 {
   "solution": {
     "ember-template-lint": {
-      "impact": "patch",
-      "oldVersion": "7.0.0",
-      "newVersion": "7.0.1",
-      "constraints": [
-        {
-          "impact": "patch",
-          "reason": "Appears in changelog section :bug: Bug Fix"
-        }
-      ],
-      "pkgJSONPath": "./package.json"
+      "oldVersion": "7.0.1"
     }
   },
-  "description": "## Release (2025-03-05)\n\nember-template-lint 7.0.1 (patch)\n\n#### :bug: Bug Fix\n* `ember-template-lint`\n  * [#3133](https://github.com/ember-template-lint/ember-template-lint/pull/3133) Correctly handled file extensions like .d.ts and .css.d.ts ([@ijlee2](https://github.com/ijlee2))\n\n#### Committers: 1\n- Isaac Lee ([@ijlee2](https://github.com/ijlee2))\n"
+  "description": "\n\n\n\n"
 }

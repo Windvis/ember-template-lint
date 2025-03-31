@@ -1,5 +1,10 @@
 # Changelog
 
+
+
+
+
+
 ## Release (2025-03-05)
 
 ember-template-lint 7.0.1 (patch)
